@@ -40,6 +40,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "@babel/runtime": "^7.29.2",
     "pubsub-js": "^1.9.3"
   }
 }
